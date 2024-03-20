@@ -1,0 +1,20 @@
+.heading{
+  font-size: 18px;
+  border-radius: 10px;
+  letter-spacing: 10px;
+}
+
+body{
+  color: black;
+ background: linear-gradient(rgb(155, 230, 240) 0%, rgb(245, 244, 163) 40%, rgb(236, 102, 102) 60%, rgb(155, 244, 158) 100% ) rgb(151, 222, 238);
+}
+
+span{
+  font-size: 30px;
+}
+
+#camera, #result{
+  border: 2px dashed rgb(134, 134, 239);
+  width: 350px;
+  height: 300px;
+}
